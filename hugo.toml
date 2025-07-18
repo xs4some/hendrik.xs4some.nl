@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Hendrik Bruinsma'
 theme = "hugo-theme-m10c"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 #[menu]
 #  [[menu.main]]
 #    identifier = "home"
