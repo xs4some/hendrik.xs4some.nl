@@ -1,0 +1,36 @@
+baseURL = 'https://hendrik.xs4some.nl/'
+languageCode = 'en-us'
+title = 'Hendrik Bruinsma'
+theme = "hugo-theme-m10c"
+
+#[menu]
+#  [[menu.main]]
+#    identifier = "home"
+#    name = "Home"
+#    url = "/"
+#    weight = 1
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "About"
+#    url = "/about/"
+#    weight = 2
+
+[params]
+  author = 'Hendrik Bruinsma'
+  description = '🐧 DevSecOps Consultant | GNU/Linux & FOSS Advocate | GitHub Expert'
+  avatar = 'https://gravatar.com/avatar/bcf4682f1086b74409ee5f289b7f0bc84014228569becdfcb5d8252ad4716b3a?s=400'
+
+[[params.social]]
+  icon = "brand-github"
+  name = "Github"
+  url = "https://github.com/readefries"
+
+[[params.social]]
+  icon = "brand-linkedin"
+  name = "linkedin"
+  url = "https://linkedin.com/in/hbruinsma"
+
+[[params.social]]
+  icon = "mail"
+  name = "Email"
+  url = "mailto:hbruinsma+xs4some-website@xs4some.nl"
