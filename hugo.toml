@@ -2,6 +2,7 @@ baseURL = 'https://xs4some.nl/'
 languageCode = 'en-us'
 title = 'Hendrik Bruinsma'
 theme = "hugo-theme-m10c"
+relativeURLs = "True"
 
 [caches]
   [caches.images]
